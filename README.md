@@ -90,18 +90,17 @@ python app.py
 
 Open your browser and go to:
 http://127.0.0.1:5000/
-##
+## UI of the Web application
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 150823" src="https://github.com/user-attachments/assets/cffbafa9-a49d-4113-8576-823de0ad6316" />
-UI of the Web application
 
+## Test Input Image
 ![silence without c](https://github.com/user-attachments/assets/322b9a8e-4623-424a-a5f4-9d51cccca573)
-Test Image
-##
+
+## Output Image (Detection + Recognition + Regeneration)
 <img width="949" height="1280" alt="download" src="https://github.com/user-attachments/assets/7e0c7a7c-6dc2-44c1-b036-ef84122e5ed8" />
-Output Image after Detection, Recoignition and Regeneration
-##
+
+## Textual Output
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 151017" src="https://github.com/user-attachments/assets/fbd14538-0a10-4941-9a0a-3391a1bdd92e" />
-Textual Output of the Application
 
 
 ## Models used
