@@ -101,6 +101,7 @@ Test Image
 Output Image after Detection, Recoignition and Regeneration
 
 
+
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 151017" src="https://github.com/user-attachments/assets/fbd14538-0a10-4941-9a0a-3391a1bdd92e" />
 Textual Output of the Application
 
