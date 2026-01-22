@@ -32,13 +32,21 @@ This project is shared as a **baseline implementation**, not a polished product.
 ## Repository Structure
 .
 ├── app.py # Main application entry point
+
 ├── debug.py # Debug / testing utilities
+
 ├── requirements.txt # Python dependencies
+
 ├── models/ # Quantized / trained models
+
 ├── en_PP-OCRv4_rec_slim_infer/ # OCR inference model files
+
 ├── templates/ # HTML templates
+
 ├── static/ # CSS and JavaScript assets
+
 ├── .gitignore
+
 └── README.md
 
 ---
