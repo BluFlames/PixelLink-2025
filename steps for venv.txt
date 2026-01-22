@@ -1,0 +1,13 @@
+Step 1: Create the Virtual Environment
+Open your terminal in your project folder (C:\Users\harsh\...\Text Regeneration App) and run this command. This creates a new folder named venv that will contain a fresh copy of Python and its packages.
+
+Bash
+
+python -m venv venv
+### Step 2: Activate the Virtual Environment
+You must activate the environment in your terminal each time you work on the project. Run this command:
+
+Bash
+
+.\venv\Scripts\Activate
+You will know it worked because your terminal prompt will change to show (venv) at the beginning.

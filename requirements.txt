@@ -1,0 +1,26 @@
+# requirements.txt - Python dependencies for Flask OCR app
+
+# Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Computer Vision & Image Processing
+opencv-python==4.8.1.78
+Pillow==10.1.0
+scikit-image==0.22.0
+
+# Deep Learning & ML
+tensorflow==2.15.0
+torch==2.1.0
+transformers==4.35.2
+
+# PaddleOCR - Use latest stable version for Windows
+paddlepaddle==3.0.0
+paddleocr==2.8.1
+
+# Utilities
+numpy==1.24.3
+
+# Optional but recommended for production
+gunicorn==21.2.0  # For production deployment (Linux/Mac only)
+waitress==3.0.0   # For Windows production deployment

@@ -1,0 +1,54 @@
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs ---
+*.log
+
+# --- Environment / Secrets ---
+.env
+.env.*
+*.key
+*.pem
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Node / JS ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+dist/
+build/
+
+# --- Java ---
+target/
+*.class
+
+# --- Android / Gradle ---
+.gradle/
+build/
+local.properties
+
+# --- C / C++ ---
+*.o
+*.out
+*.exe
+
+# --- General binaries ---
+*.zip
+*.tar
+*.tar.gz
+*.7z
