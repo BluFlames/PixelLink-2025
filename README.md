@@ -53,12 +53,13 @@ This project is shared as a **baseline implementation**, not a polished product.
 
 ## Setup Instructions
 
+##
 **1. Clone the repository**
 
-```bash
 git clone https://github.com/BluFlames/PixelLink-2025.git
 cd PixelLink-2025
 
+## 
 **2. Create and activate a virtual environment**
 
 Windows
@@ -71,6 +72,7 @@ Linux / macOS
 python3 -m venv venv
 source venv/bin/activate
 
+## 
 **3. Install dependencies**
 pip install -r requirements.txt
 
@@ -79,3 +81,32 @@ python app.py
 
 Open your browser and go to:
 http://127.0.0.1:5000/
+
+
+## Models used
+
+**1. PixelLink (Custom trained on 1.5K images)**
+This model was trained using ISTD OC 2021 aand ICDAR 2015 datasets.
+Prominently trained on the 90% occlusion dataset of the ISTD OC 2021 dataset.
+It also uses the 1K images available in the standard ICDAR 2015 Dataset. 
+
+**2. PaddleOCR (Quantized Model)**
+Pretrained model but with quantization
+
+**3. Google ByT5**
+For correcting the recognized text, incase the text requires any corrections.
+
+
+## Important Notes
+
+No API keys or secrets are required.
+All execution is local.
+Tested on a local development environment only.
+This is an academic project.
+
+**The aim of this project was to custom train a Deep Learning Model (here, PixelLink), 
+create a pipeline that detects, recognizes and regenerates missing characters 
+from an image with text. English is the only language that this project works.**
+
+## Contributions are welcome
+It is highly encouraged.
