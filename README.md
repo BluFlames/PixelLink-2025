@@ -96,7 +96,7 @@ UI of the Web application
 
 ![silence without c](https://github.com/user-attachments/assets/322b9a8e-4623-424a-a5f4-9d51cccca573)
 Test Image
-
+##
 <img width="949" height="1280" alt="download" src="https://github.com/user-attachments/assets/7e0c7a7c-6dc2-44c1-b036-ef84122e5ed8" />
 Output Image after Detection, Recoignition and Regeneration
 ##
