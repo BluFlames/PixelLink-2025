@@ -31,6 +31,7 @@ This project is shared as a **baseline implementation**, not a polished product.
 
 ## Repository Structure
 .
+
 ├── app.py # Main application entry point
 
 ├── debug.py # Debug / testing utilities
