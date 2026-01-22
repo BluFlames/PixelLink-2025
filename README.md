@@ -100,6 +100,7 @@ Test Image
 <img width="949" height="1280" alt="download" src="https://github.com/user-attachments/assets/7e0c7a7c-6dc2-44c1-b036-ef84122e5ed8" />
 Output Image after Detection, Recoignition and Regeneration
 
+
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 151017" src="https://github.com/user-attachments/assets/fbd14538-0a10-4941-9a0a-3391a1bdd92e" />
 Textual Output of the Application
 
